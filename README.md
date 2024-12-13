@@ -1,0 +1,1 @@
+This example demonstrates a common misconception in Elixir:  modifying a list inside an `Enum.each` loop does not affect the original list.  The solution shows how to use `Enum.filter` for correct list manipulation.
